@@ -31,7 +31,7 @@ Ensuite lors de la création du stage il n'y a AUCUNE vérification d'erreur c'e
 
 La barre de recherche ne sert pas pour le moment, elle aura pour but de rechercher un stage parmi la liste de stage afficher dans Appel à Candidature
 
-Pour le champ du code stage : une fonction Google Suggest qui permet d'être sur de ne pas se tromper
+Pour le champ du code stage : une fonction Javascirpt qui vérifie ce que l'utilisateur rentre et permet d'être sur de ne pas se tromper
 
 Niveau sécurité ? 
 
